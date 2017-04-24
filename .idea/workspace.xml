@@ -169,8 +169,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="161" />
-    <option name="y" value="282" />
+    <option name="x" value="-23" />
+    <option name="y" value="664" />
     <option name="width" value="1059" />
     <option name="height" value="861" />
   </component>
@@ -641,15 +641,15 @@
       <workItem from="1490505769027" duration="1144000" />
       <workItem from="1492663585554" duration="46000" />
       <workItem from="1493010176256" duration="93000" />
-      <workItem from="1493010353222" duration="6348000" />
+      <workItem from="1493010353222" duration="6524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21890000" />
+    <option name="totallyTimeSpent" value="22066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="282" width="1059" height="861" extended-state="0" />
+    <frame x="-23" y="664" width="1059" height="861" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30472517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
